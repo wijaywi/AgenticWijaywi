@@ -1,5 +1,9 @@
 # Wijaywi Web Agent Reliability Lab
 
+<p align="center">
+  <img src="public/logo.png" alt="Agentic Wijaywi Logo" width="200"/>
+</p>
+
 > **AI agents can act on the web.**
 > Wijaywi makes their actions observable, evidence-backed, uncertainty-aware, falsifiable, and accountable.
 
